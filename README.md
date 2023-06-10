@@ -13,6 +13,6 @@ Add comments to their movies update comments, and delete the comments from their
 <img width="740" alt="Screenshot 2023-06-10 150517" src="https://github.com/stephenrudge/FilmHive-/assets/105181957/a30718c6-2d77-4826-87d7-d6c765b22b38">
 
 
-#This project was hard work, but i learned a lot. #The languages i used were javascript, react, C# and .NET6
+This project was hard work, but i learned a lot. # The languages i used were javascript, react, C# and .NET6
 
 I have learned a lot, and i will continue to learn. as i grow in the software life i have set before me. 
