@@ -1,0 +1,28 @@
+.h1 {
+    color: yellow;
+}
+
+.login {
+    background-color: black;
+    border: solid white;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    size: 30px;
+}
+
+.login a:visited {
+    background-color: black;
+    border: solid white;
+    color: white;
+    border-radius: 10px;
+
+}
+
+
+.img {
+
+    background-repeat: no-repeat;
+    width: 10px;
+    height: 20px;
+}

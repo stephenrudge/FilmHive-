@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    background-color: black;
+    color: yellow;
+    display: grid;
+   
+}
+ui{
+    height: 5 * (box-height + box-margin); /* Adjust box-height and box-margin as per your design */
+    overflow: auto;
+
+}

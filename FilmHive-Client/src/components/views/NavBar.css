@@ -1,0 +1,13 @@
+.navbar{
+display: flex;
+width: 20%;
+justify-content: center;
+margin: 20px;
+background-color: yellow;
+flex-wrap: wrap;
+color:yellow;
+border-radius: 50px;
+}
+.navbar a:visited{
+    color: black;
+}

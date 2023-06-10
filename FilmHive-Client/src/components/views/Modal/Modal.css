@@ -1,0 +1,30 @@
+ .Modal{
+
+left:0;
+top:0;
+right:0;
+bottom: 0;
+background-color: rgba(0,0,0,0.5);
+display: flex;
+align-items: center;
+justify-content: center;
+} 
+
+.Modal-content{
+    width: 500px;
+    background-color: blue
+}
+
+.Modal-header, .Modal-footer{
+padding: 0px;
+}
+
+.Modal-title{
+    margin: 0;
+}
+
+.Modal-body{
+    padding: 10px;
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
+}

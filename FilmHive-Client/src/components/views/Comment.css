@@ -1,0 +1,8 @@
+.submitButton{
+    background-color: forestgreen;
+    color: white;
+    border-radius: 50px;
+}
+.submitButton :hover{
+    background-color: green;   
+}
